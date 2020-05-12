@@ -4,8 +4,7 @@ https://frania2201.github.io/Search-Engine/
 
 This project is a simple app to look for a drinks.
 
-## Screenshots
-![Example screenshot](./screenshot.png)
+(./screenshot.png)
 
 ## Technologies
 * HTML
