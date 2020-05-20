@@ -1,7 +1,7 @@
 https://frania2201.github.io/Search-Engine/
 
 # DrinkSearch
-This project is a simple app to look for a drinks.
+This app was created for the selection of drinks by names.
 
 ![Example screenshot](./screenshot.png)
 
